@@ -1,6 +1,6 @@
-Write a program to implement stack using array with operation like push and pop??
-write a program to implement stack using list to merge and sort the list??
-Ans1)
+//Write a program to implement stack using array with operation like push and pop??
+//write a program to implement stack using list to merge and sort the list??
+//Ans1)
  class Stack{
 // Check the few lines in this code....
     
